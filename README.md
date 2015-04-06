@@ -51,7 +51,7 @@ KNOWN BUGS
 No known bugs at this time.
 
 
-AUTHOR
+AUTHORS
 -------
 Mike Harris
 mikeharris.jmh2@yahoo.com
